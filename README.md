@@ -1,13 +1,9 @@
 <h1 align="center">G'day, I'm Luke (Bastian) 👋</h1>
 <h3 align="center">Director @ TNC :: CTO @ LEOPARD.host</h3>
 
-- 🔭 I’m currently working on: **Automation**
+- 🔭 Currently working on: **Automation**
 
-- 🌱 I’m currently learning: **PHP & SQL**
-
-- 🤝 I’m looking for help with: **Bugs**
-
-- 💬 Ask me about: **Compute/Hosting**
+- 💬 Ask me about: **Compute/Projects**
 
 - 📫 How to reach me: **https://luke.st**
 
