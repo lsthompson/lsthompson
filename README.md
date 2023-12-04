@@ -1,4 +1,4 @@
-<h1 align="center">G'day, I'm Luke (Bastian) 👋</h1>
+<h1 align="center">G'day, I'm Luke 👋</h1>
 <h3 align="center">CTO @ The Network Crew Pty Ltd (AS138521)</h3>
 
 - 🔭 Currently working on: **Automation**
