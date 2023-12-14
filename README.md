@@ -1,13 +1,13 @@
 <h1 align="center">G'day, I'm Luke 👋</h1>
 <h3 align="center">CTO @ The Network Crew Pty Ltd (AS138521)</h3>
 
-- 🔭 Currently working on: **Automation**
+🔭 Currently working on: **Automation**
 
-- 💬 Ask me about: **Compute/Projects**
+💬 Ask me about: **Compute/Projects**
 
-- 📫 How to reach me: **https://luke.st**
+📫 How to reach me: **https://luke.st**
 
-- ⚡ Fun fact: **Linux runs the world!**
+⚡ Fun fact: **Linux runs the world!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
