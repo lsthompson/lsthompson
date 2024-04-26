@@ -7,23 +7,15 @@
 
 ⚡ Fun fact: **Linux runs the world!**
 
-### Connecting...
-
-- https://luke.st
-- [/in/thompsonluke](https://linkedin.com/in/thompsonluke)
-
 ### FOSS Projects
 
 - run: [Proxmox VE for WHMCS](https://github.com/The-Network-Crew/Proxmox-VE-for-WHMCS)
 - mnt: [PVE2 Proxmox PHP API Class](https://github.com/CpuID/pve2-api-php-client)
 - run: [BPAY for WHMCS](https://github.com/The-Network-Crew/BPAY-for-WHMCS), [CSF Unblocker](https://github.com/The-Network-Crew/CSF-Unblocker-for-WHMCS), ...
 
-### Corporate Sites
+### Contacts & Links
 
-- https://tnc.works
-- https://merlot.digital
-
-### Hobby Projects...
-
-- https://towser.tv
-- https://hsccountdown.com.au
+| Connecting...                                                    | Hobby Projects                                     | Corporate Sites                      |
+|------------------------------------------------------------------|----------------------------------------------------|--------------------------------------|
+| [https://luke.st](https://luke.st)                                       | [https://towser.tv](https://towser.tv)                     | [https://tnc.works](https://tnc.works)       |
+| [/in/thompsonluke](https://linkedin.com/in/thompsonluke)         | [https://hsccountdown.com.au](https://hsccountdown.com.au) | [https://merlot.digital](https://merlot.digital) |
