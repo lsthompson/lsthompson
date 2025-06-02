@@ -12,7 +12,7 @@
 ### Other Contributions
 
 - Spent over 1 year with [CloudLinux](https://blog.cloudlinux.com/max-web-server-nginx-based-apache-replacement-for-faster-wordpress-hosting) supporting Apache2NGINX/MAx product development
-- Worked with WebPros to fix their defective IPv6 implementation in cPanel (thanks, APNIC)
+- Worked with WebPros to fix their defective IPv6 implementation in cPanel (thanks, [APNIC](https://blog.apnic.net/2025/05/21/cpanels-ipv6-overhaul/))
 - Forged the [LakeMac.Tech](https://lakemac.tech/) alliance/consortium to make it easier for biz to engage all-of-ICT
 
 ### Contacts & Links
